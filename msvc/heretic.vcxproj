@@ -166,8 +166,10 @@
     <ClCompile Include="..\src\icon.c" />
     <ClCompile Include="..\src\i_cdmus.c" />
     <ClCompile Include="..\src\i_endoom.c" />
+    <ClCompile Include="..\src\i_input.c" />
     <ClCompile Include="..\src\i_joystick.c" />
     <ClCompile Include="..\src\i_main.c" />
+    <ClCompile Include="..\src\i_midipipe.c" />
     <ClCompile Include="..\src\i_oplmusic.c" />
     <ClCompile Include="..\src\i_pcsound.c" />
     <ClCompile Include="..\src\i_sdlmusic.c" />
@@ -241,7 +243,9 @@
     <ClInclude Include="..\src\heretic\sounds.h" />
     <ClInclude Include="..\src\heretic\s_sound.h" />
     <ClInclude Include="..\src\i_cdmus.h" />
+    <ClInclude Include="..\src\i_input.h" />
     <ClInclude Include="..\src\i_joystick.h" />
+    <ClInclude Include="..\src\i_midipipe.h" />
     <ClInclude Include="..\src\i_sound.h" />
     <ClInclude Include="..\src\i_swap.h" />
     <ClInclude Include="..\src\i_system.h" />

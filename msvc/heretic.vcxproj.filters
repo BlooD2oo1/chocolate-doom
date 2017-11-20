@@ -330,6 +330,12 @@
     <ClCompile Include="..\src\heretic\sounds.c">
       <Filter>Source Files\heretic</Filter>
     </ClCompile>
+    <ClCompile Include="..\src\i_input.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\i_midipipe.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\src\d_event.h">
@@ -535,6 +541,12 @@
     </ClInclude>
     <ClInclude Include="..\src\heretic\sounds.h">
       <Filter>Header Files\heretic</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\i_input.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\i_midipipe.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
